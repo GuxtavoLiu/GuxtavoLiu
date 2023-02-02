@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Gustavo Liu.
-- 👀 I like to develop systems that makes life easier.
-- 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on AI Sysmtems.
+# Hi, I’m Gustavo Liu.
+
+
+- Seeking to develop systems that makes life easier.
+- I’m looking to collaborate and learn about Open Source AI projects, talk to me!
 - 📫 How to reach me: luizgustavoliu@gmail.com.
 
 <!---
